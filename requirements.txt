@@ -1,0 +1,8 @@
+numpy<2.4
+pandas
+librosa
+matplotlib
+scikit-learn
+seaborn
+jupyter
+ipykernel
